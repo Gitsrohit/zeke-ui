@@ -115,3 +115,4 @@ session tokens (SHA-256) in HTTP-only, SameSite=Lax cookies; bcrypt password has
 mutating route handlers (Server Actions have built-in origin checks); rate limits on sign-in, sign-up and AI
 endpoints; CSV exports neutralise formula injection; secrets only in environment variables.
 # zeke-ui
+# zeke-frontend
